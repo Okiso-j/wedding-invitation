@@ -55,11 +55,7 @@ export default function Home() {
         </div>
 
         <p className={`text-[25px] text-gray-900 mb-[20px] max-w-[500px] ${marck.className}`}>
-          Церемонія одруження та святковий банкет відбудуться
-          {' '}
-          <span className='text-[25px]'>12 липня 2025 року о 13:00</span>
-          {' '}
-          в&nbsp;ресторані «Локація» м.Кропивницький.
+          Церемонія одруження та святковий бенкет відбудуться 12 липня 2025 року о 13:00 в&nbsp;ресторані «Локація» м.Кропивницький.
         </p>
 
         <a href="https://www.google.com/maps/place/%D0%90%D0%9B%D0%91%D0%95%D0%9D%D0%90,+%D0%9A%D0%90%D0%A4%D0%95/@48.4974385,32.2124611,509m/data=!3m1!1e3!4m9!1m2!2m1!1z0LrQsNGA0YLQsA!3m5!1s0x40d042f09438ee97:0x898863c61b6c1644!8m2!3d48.4980481!4d32.2141402!16s%2Fg%2F1q2vwkn_p?entry=ttu&g_ep=EgoyMDI1MDUxMy4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D"
