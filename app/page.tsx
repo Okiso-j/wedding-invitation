@@ -74,7 +74,7 @@ export default function Home() {
           Будемо вдячні, якщо Ви підтримаєте кольорову гамму нашого весілля.
         </p>
 
-        <div className="flex gap-2 p-4 mb-[25px]">
+        <div className="flex gap-2 p-4 mb-[25px] flex-wrap justify-center">
           <div className="rounded-[1000px] border-[1px] border-black w-[75px] h-[75px] bg-[#f2e8e6] hover:scale-150 hover:z-[2] transition-all translate-0.5"></div>
           <div className="rounded-[1000px] border-[1px] border-black w-[75px] h-[75px] bg-[#f5d7db] hover:scale-150 hover:z-[2] transition-all translate-0.5"></div>
           <div className="rounded-[1000px] border-[1px] border-black w-[75px] h-[75px] bg-[#1d3e73] hover:scale-150 hover:z-[2] transition-all translate-0.5"></div>
