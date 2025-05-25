@@ -74,12 +74,12 @@ export default function Home() {
           Будемо вдячні, якщо Ви підтримаєте кольорову гамму нашого весілля.
         </p>
 
-        <div className="flex gap-2 p-4 mb-[25px] flex-wrap justify-center">
-          <div className="rounded-[1000px] border-[1px] border-black w-[75px] h-[75px] bg-[#f2e8e6] hover:scale-150 hover:z-[2] transition-all translate-0.5"></div>
-          <div className="rounded-[1000px] border-[1px] border-black w-[75px] h-[75px] bg-[#f5d7db] hover:scale-150 hover:z-[2] transition-all translate-0.5"></div>
-          <div className="rounded-[1000px] border-[1px] border-black w-[75px] h-[75px] bg-[#1d3e73] hover:scale-150 hover:z-[2] transition-all translate-0.5"></div>
-          <div className="rounded-[1000px] border-[1px] border-black w-[75px] h-[75px] bg-[#d8ddf0] hover:scale-150 hover:z-[2] transition-all translate-0.5"></div>
-          <div className="rounded-[1000px] border-[1px] border-black w-[75px] h-[75px] bg-[#c5c1e0] hover:scale-150 hover:z-[2] transition-all translate-0.5"></div>
+        <div className="flex gap-[15px_25px] p-4 mb-[25px] flex-wrap justify-center">
+          <div className="rounded-[1000px] border-[1px] border-black w-[90px] h-[90px] bg-[#f2e8e6] hover:scale-150 hover:z-[2] transition-all translate-0.5"></div>
+          <div className="rounded-[1000px] border-[1px] border-black w-[90px] h-[90px] bg-[#f5d7db] hover:scale-150 hover:z-[2] transition-all translate-0.5"></div>
+          <div className="rounded-[1000px] border-[1px] border-black w-[90px] h-[90px] bg-[#1d3e73] hover:scale-150 hover:z-[2] transition-all translate-0.5"></div>
+          <div className="rounded-[1000px] border-[1px] border-black w-[90px] h-[90px] bg-[#d8ddf0] hover:scale-150 hover:z-[2] transition-all translate-0.5"></div>
+          <div className="rounded-[1000px] border-[1px] border-black w-[90px] h-[90px] bg-[#c5c1e0] hover:scale-150 hover:z-[2] transition-all translate-0.5"></div>
         </div>
 
         <p className={`text-[25px] text-gray-900 mb-[20px] max-w-[470px] ${marck.className}`}>
