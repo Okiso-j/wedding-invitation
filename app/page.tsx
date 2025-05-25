@@ -44,7 +44,6 @@ export default function Home() {
         </div>
 
         <p className="text-[18px] text-gray-700">12 липня 2025 о 13:00</p>
-        <p className="text-[16px] text-gray-600 mb-[16px]">також буде викуп о 11:00</p>
         <p className="text-[18px] text-gray-700 mb-[20px]">Кропивницький, ресторан Локація</p>
 
         <a href="https://www.google.com/maps/place/%D0%90%D0%9B%D0%91%D0%95%D0%9D%D0%90,+%D0%9A%D0%90%D0%A4%D0%95/@48.4974385,32.2124611,509m/data=!3m1!1e3!4m9!1m2!2m1!1z0LrQsNGA0YLQsA!3m5!1s0x40d042f09438ee97:0x898863c61b6c1644!8m2!3d48.4980481!4d32.2141402!16s%2Fg%2F1q2vwkn_p?entry=ttu&g_ep=EgoyMDI1MDUxMy4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D"
@@ -55,7 +54,7 @@ export default function Home() {
           Показати на карті
         </a>
 
-        <p className="text-[14px] text-gray-600 mb-[30px] max-w-[280px]">
+        <p className="text-[14px] text-gray-900 mb-[30px] max-w-[280px]">
           Якщо у вас не вдасться приїхати на весілля, просимо записати відео з побажаннями.
         </p>
 
@@ -71,7 +70,7 @@ export default function Home() {
         width={200}
         height={200}
         draggable="false"
-        className=" absolute right-[60%] top-[20%] rotate-[-40deg] z-[0] opacity-50"
+        className=" absolute right-[60%] top-[27%] rotate-[-40deg] z-[0] opacity-50"
       />
       <Image
         src={Icon2}
@@ -79,7 +78,7 @@ export default function Home() {
         width={200}
         height={200}
         draggable="false"
-        className="absolute left-[60%] top-[50%] rotate-[40deg] z-[0] opacity-50"
+        className="absolute left-[60%] top-[46%] rotate-[40deg] z-[0] opacity-50"
       />
       <Image
         src={Icon3}
